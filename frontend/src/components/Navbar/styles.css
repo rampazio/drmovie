@@ -1,0 +1,28 @@
+header {
+    background-color: var(--color-primary);
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.drmovie-nav-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    font-size: 24px;
+}
+
+.drmovie-nav-content h1{
+margin: 0;
+font-weight: 700;
+}
+
+.drmovie-contact-conteiner {
+    display: flex;
+    align-items: center;
+}
+
+.drmovie-contact-link {
+    margin: 0 0 0 10px;
+}
