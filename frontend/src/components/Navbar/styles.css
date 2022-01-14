@@ -9,7 +9,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    color: white;
+    color: rgb(230, 209, 209);
     font-size: 24px;
 }
 
