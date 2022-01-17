@@ -15,7 +15,7 @@ function MovieScore( { score, count} : Props) {
     <p className="dsmovie-score-count">{count} avaliações</p>
 </div>
 
-    )
+    );
 }
 
 export default MovieScore;
